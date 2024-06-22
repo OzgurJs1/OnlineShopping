@@ -30,7 +30,6 @@ Manage Products: Add, update, or delete product listings.
 View Users: Manage user accounts and their details.
 Manage Orders: View and process orders placed by users.
 
-Contribution
 Contributions to the project are welcome. To contribute, follow these steps:
 
 Fork the repository.
